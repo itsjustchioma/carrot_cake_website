@@ -1,7 +1,7 @@
     const recipes = [
       {
         name: "Classic Carrot Cake",
-        image: "pexels-igor-alves-13188970.jpg",
+        image: "./img/pexels-igor-alves-13188970.jpg",
         description: "A traditional carrot cake with cream cheese frosting.",
         ratings: 4,
         avgRating: 4.2,
@@ -33,7 +33,7 @@
       },
       {
         name: "Vegan Carrot Cake",
-        image: "pexels-leeloo-the-first-5594501.jpg",
+        image: "./img/pexels-leeloo-the-first-5594501.jpg",
         description: "A plant-based carrot cake with dairy-free frosting.",
         ratings: 5,
         avgRating: 4.8,
